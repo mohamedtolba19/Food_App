@@ -288,6 +288,11 @@ thead{
     .register-form{
     display: block;
   }
+   .container-auth{
+      height: 100vh !important ;
+    
+      
+    }
 }
 
 /* Small devices */
@@ -295,13 +300,24 @@ thead{
     .register-form{
     display: block;
   }
+   .container-auth{
+      height: 100vh !important ;
+    
+      
+    }
 }
 
 /* Medium devices */
 @media (min-width: 768px) {
   .register-form{
     display: flex;
+   
   }
+   .container-auth{
+      height: 80vh !important ;
+    
+      
+    }
    /* .register-form div {
     margin: 0 20px;
    } */
@@ -312,6 +328,11 @@ thead{
   .register-form{
     display: flex;
   }
+   .container-auth{
+      height: 80vh !important ;
+    
+      
+    }
 }
 
 /* Extra large devices */
@@ -319,6 +340,11 @@ thead{
     .register-form{
     display: flex;
   }
+   .container-auth{
+      height: 80vh !important ;
+    
+      
+    }
 }
 
 /* XXL devices */
