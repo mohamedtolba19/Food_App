@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Header({title, desc , imgUrl}) {
   return <>
-  <div className="header-container  p-md-3 m-md-3">
+  <div className="header-container pt-5  p-md-3 m-md-3">
     <div className="container">
       <div className="row">
         <div className="  col-md-8 d-flex justify-content-start  text-white">
